@@ -14,7 +14,7 @@
 - Responsive design for various screen sizes.
 
 ### Deployed App 
- https://date-tracker-2a5eins0d-nidhis2608s-projects.vercel.app/
+ https://date-tracker-469e.vercel.app/
 
 ### Installation & Getting started
   To run the project locally, follow these steps:
